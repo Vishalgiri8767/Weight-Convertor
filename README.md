@@ -7,8 +7,7 @@ A simple web application that allows users to convert weight between kilograms (
 - CSS
 - JavaScript
 
-## View Preview
-[click here](https://vishalgiri8767.github.io/Weight-Convertor/)
+## [click here to check](https://vishalgiri8767.github.io/Weight-Convertor/)
 
 ## Screenshot
 ![Alt text](image.png)
