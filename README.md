@@ -10,4 +10,6 @@ A simple web application that allows users to convert weight between kilograms (
 ## View Preview
 [click here]()
 
+## Screenshot
+![Alt text](image.png)
 
